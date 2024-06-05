@@ -2,11 +2,11 @@
 
 1. Clone the repository:
 
-# git clone https://github.com/relaxaigen/RDP
+``` git clone https://github.com/relaxaigen/RDP ```
 
 2. Change directory:
 
-# cd RDP
+``` cd RDP ```
 
 3. **Select your language** 🌐
 
